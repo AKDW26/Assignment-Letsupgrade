@@ -1,0 +1,7 @@
+                             Assignment 1 LetsUpgrade
+
+Solution 1:-    The first loop is O(N) and the second loop is O(M). Since we don’t know which is bigger, we say this is O(N + M). This can also be written as O(max(N, M)).
+                Since there is no additional space being utilized, the space complexity is constant / O(1).
+
+Solution 2:-    An algorithm X is said to be asymptotically better than Y if X takes smaller time than y for all input sizes n larger than a value n0 where n0 > 0.
+                So, option B is correct for X will be a better choice for all inputs except possibly small inputs
